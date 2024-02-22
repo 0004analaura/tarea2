@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\Leer teclado\Leer teclado\bin\Debug\Leer teclado.exe.config
+C:\Users\georg\source\repos\Leer teclado\Leer teclado\bin\Debug\Leer teclado.exe
+C:\Users\georg\source\repos\Leer teclado\Leer teclado\bin\Debug\Leer teclado.pdb
+C:\Users\georg\source\repos\Leer teclado\Leer teclado\obj\Debug\Leer teclado.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\Leer teclado\Leer teclado\obj\Debug\Leer teclado.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Leer teclado\Leer teclado\obj\Debug\Leer teclado.exe
+C:\Users\georg\source\repos\Leer teclado\Leer teclado\obj\Debug\Leer teclado.pdb

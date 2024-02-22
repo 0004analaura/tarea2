@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\source\\repos\\Leer teclado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6D5C69-26FC-402A-8A1D-6FA440B90032}|Leer teclado\\Leer teclado.csproj|c:\\users\\georg\\source\\repos\\leer teclado\\leer teclado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6D5C69-26FC-402A-8A1D-6FA440B90032}|Leer teclado\\Leer teclado.csproj|solutionrelative:leer teclado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\Leer teclado\\Leer teclado\\Program.cs",
+              "RelativeDocumentMoniker": "Leer teclado\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\Leer teclado\\Leer teclado\\Program.cs",
+              "RelativeToolTip": "Leer teclado\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T02:49:12.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

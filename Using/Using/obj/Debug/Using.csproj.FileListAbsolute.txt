@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\Using\Using\bin\Debug\Using.exe.config
+C:\Users\georg\source\repos\Using\Using\bin\Debug\Using.exe
+C:\Users\georg\source\repos\Using\Using\bin\Debug\Using.pdb
+C:\Users\georg\source\repos\Using\Using\obj\Debug\Using.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\Using\Using\obj\Debug\Using.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Using\Using\obj\Debug\Using.exe
+C:\Users\georg\source\repos\Using\Using\obj\Debug\Using.pdb
