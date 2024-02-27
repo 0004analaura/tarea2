@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\source\\repos\\Using\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EFB9DF-7743-4763-A28E-B8AAA117CD5E}|Using\\Using.csproj|c:\\users\\georg\\source\\repos\\using\\using\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EFB9DF-7743-4763-A28E-B8AAA117CD5E}|Using\\Using.csproj|solutionrelative:using\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\source\\repos\\Using\\Using\\Program.cs",
+              "RelativeDocumentMoniker": "Using\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\source\\repos\\Using\\Using\\Program.cs",
+              "RelativeToolTip": "Using\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T02:08:30.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
